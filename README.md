@@ -11,6 +11,6 @@
 If you make any changes to the extension, make sure to reload it from within the `Chrome Developer Tools > Extensions` tab.
 
 ## Take a look!
-![ShayHowe Home Page view](examples\home.jpg?raw=true "Home Page")
-![ShayHowe code example](examples\code.jpg?raw=true "Code blocks")
-![ShayHowe selectors page example](examples\selectors.jpg?raw=true "Complex Selectors lesson")
+![ShayHowe Home Page view](examples/home.jpg?raw=true "Home Page")
+![ShayHowe code example](examples/code.jpg?raw=true "Code blocks")
+![ShayHowe selectors page example](examples/selectors.jpg?raw=true "Complex Selectors lesson")

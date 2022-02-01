@@ -6,6 +6,11 @@ body {
     color: #d5d5d5 !important;
 }
 
+/* Home page. */
+.course-overview-lessons a::before {
+    background-color: #151515 !important;
+}
+
 /* Main article space background. */
 .main,
 input,

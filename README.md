@@ -2,7 +2,7 @@
 
 ## Installation
 - Clone this repository to your local machine, or download as a ZIP file, by clicking the green `Code` button on Github.
-  - Unzip the folder is necessary.
+  - Unzip the folder if necessary.
 - Open the `Chrome Developer Tools` and go to the `Extensions` tab.  
 - Enable the `Developer Mode` option in the top right corner.  
 - Click the `Load unpacked` button in the top left corner.  

@@ -1,4 +1,4 @@
-#A really simple Chrome extension for a dark theme for the ShayHowe website, so I could stop burning my eyes while reading.
+# A really simple Chrome extension for a dark theme for the ShayHowe website, so I could stop burning my eyes while reading.
 
 ## Installation
 - Clone this repository to your local machine.

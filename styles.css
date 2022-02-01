@@ -2,12 +2,8 @@
 body {
     background-color: #17181c !important;
 }
-.course-overview-lessons a:before {
-    color: #d5d5d5 !important;
-}
-
-/* Home page. */
 .course-overview-lessons a::before {
+    color: #d5d5d5 !important;
     background-color: #151515 !important;
 }
 

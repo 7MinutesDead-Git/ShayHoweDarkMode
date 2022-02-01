@@ -1,0 +1,74 @@
+/* Aside. */
+body {
+    background-color: #17181c !important;
+}
+.course-overview-lessons a:before {
+    color: #d5d5d5 !important;
+}
+
+/* Main article space background. */
+.main,
+input,
+select,
+textarea,
+.form-toggles,
+.media-frame,
+.lead-recommended-courses,
+.sg-color-white {
+    background-color: #2c2c2c !important;
+}
+/* Main article space text color. */
+html,
+.highlight code,
+.form-toggle,
+#carbonads a,
+.bsa-cpc ._default_,
+.course-overview-lessons a {
+    color: #bfbfbf !important;
+}
+h1 {
+    color: #ac44ff !important;
+}
+h2 {
+    color: #dc00ff !important;
+}
+h3, h4, h5, h6 {
+    color: #b300ff !important;
+}
+
+/* Code blocks coloring. */
+.highlight {
+    background: #1a1a1a !important;
+}
+.highlight::after {
+    background: linear-gradient(to right, #1a1a1a, #2c2c2c) !important;
+}
+.rouge-gutter  {
+    background-color: #141414 !important;
+}
+.highlight .lineno::after {
+    background-color: #1a1a1a !important;
+}
+
+/* Inline code blocks. */
+code {
+    background: #1a1a1a !important;
+    color: #2cd58f !important;
+}
+
+/* Links. */
+a, .share a {
+    color: #00ffb8 !important;
+}
+a {
+    border-bottom: #00ffb8 !important;
+}
+
+/* Promo articles and footer. */
+.lead-promo,
+.recommended-courses-empty,
+.promo-book,
+.primary-footer {
+    background-color: #121212 !important;
+    border: #565656 !important;
+}

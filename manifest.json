@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+ 
+  "name": "Shay Howe Dark Mode",
+  "version": "0.1.0",
+  "description": "A dark theme for the ShayHowe site.",
+ 
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "js": ["content.js"],
+    "matches": ["https://learn.shayhowe.com/*"]
+  }],
+
+  "author": "7 Minutes Dead",
+  "homepage_url": "https://github.com/7MinutesDead-Git/ShayHoweDarkMode"
+ 
+}

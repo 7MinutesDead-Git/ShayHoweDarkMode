@@ -6,7 +6,7 @@
 - Open the `Chrome Developer Tools` and go to the `Extensions` tab.  
 - Enable the `Developer Mode` option in the top right corner.  
 - Click the `Load unpacked` button in the top left corner.  
-- Select the `ShayHoweDarkMode` folder *(or whatever you named this repo when cloning)*.  
+- Select the `ShayHoweDarkMode` folder *(or whatever you named this folder)*.  
 - Click the `Load` button.  
 
 If you make any changes to the extension, make sure to reload it from within the `Chrome Developer Tools > Extensions` tab.

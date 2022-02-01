@@ -8,6 +8,7 @@
 - Click the `Load unpacked` button in the top left corner.  
 - Select the `ShayHoweDarkMode` folder *(or whatever you named this folder)*.  
 - Click the `Load` button.  
+- Head to https://learn.shayhowe.com/ !
 
 If you make any changes to the extension, make sure to reload it from within the `Chrome Developer Tools > Extensions` tab.
 

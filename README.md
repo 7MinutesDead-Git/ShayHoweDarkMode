@@ -1,4 +1,4 @@
-# Dark Theme for ShayHowe site.
+# Dark Theme Chrome extension for ShayHowe site.
 
 ## Installation
 - Clone this repository to your local machine, or download as a ZIP file, by clicking the green `Code` button on Github.
